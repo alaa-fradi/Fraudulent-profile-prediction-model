@@ -9,8 +9,7 @@ Then, our work focused on both model training, feature selection and parameter o
 Comparing the results of the linear curves and the final cross-validation score, we found that the "Random Foret" model recorded the best score with the largest margin of improvement. However, the score for this model demonstrates the need for additional data mining to further improve our predictions.
 
 Finally, the model was exported using the Joblib library and was deployed in our web application that we built using Djang.
-
-the bank supervisor will be able to view the profiles in real time and test the performance of the model.
+The bank supervisor will be able to view the profiles in real time and test the performance of the model.
 
 ![Profile-Table](Profile-Table.png)
 ![Profile-Results](Profile-Results.png)
