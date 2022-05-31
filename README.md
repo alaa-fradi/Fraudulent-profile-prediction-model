@@ -10,6 +10,8 @@ Comparing the results of the linear curves and the final cross-validation score,
 
 Finally, the model was exported using the Joblib library and was deployed in our web application that we built using Djang.
 
+the bank supervisor will be able to view the profiles in real time and test the performance of the model.
+
 ![Profile-Table](Profile-Table.png)
 ![Profile-Results](Profile-Results.png)
 
